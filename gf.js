@@ -6,3 +6,7 @@ function bf(){
 const arhcit = migle
 
 
+function migle(){
+   console.log(" akela h mister khila khiladin chaiye")
+
+}
