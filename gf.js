@@ -3,3 +3,6 @@ function bf(){
     console.log("hello world")
 
 }
+const arhcit = migle
+
+
